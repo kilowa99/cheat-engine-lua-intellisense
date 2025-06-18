@@ -1,18 +1,18 @@
 {
 	"name": "cheat-engine-lua-intellisense",
-	"publisher": "droidxrx",
+	"publisher": "droids",
 	"displayName": "Cheat Engine Lua Intellisense",
 	"description": "VSCode Cheat Engine Intellisense",
 	"icon": "image/logo.png",
 	"version": "0.0.3",
 	"author": {
-		"name": "droidxrx",
-		"email": "droidxrx@gmail.com"
+		"name": "droids",
+		"email": "droids@gmail.com"
 	},
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/droidxrx/cheat-engine-lua-intellisense"
+		"url": "https://github.com/droids/cheat-engine-lua-intellisense"
 	},
 	"engines": {
 		"vscode": "^1.67.0"
